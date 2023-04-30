@@ -3,7 +3,7 @@
 This is a classic Snake game implemented in MIPS assembly language, designed to run on a MIPS architecture emulator (MARS) or on an actual MIPS-based system. The game is played on a grid of cells, where the player controls a snake that grows by eating food and dies if it collides with a wall or its own body.
 
 # Getting started
-To run the game, you'll need to have a MIPS emulator or hardware that can run MIPS assembly code. Once you have that, you can download the source code from this repository and open MARS, Bitmap section.
+To run the game, you'll need to have a MIPS emulator or hardware that can run MIPS assembly code. Once you have that, you can download the source code from this repository and open it in MARS, Bitmap Display section.
 
 To play the game, simply run the executable and use the arrow keys on your keyboard to move the snake around the grid. The game will keep track of your score and display it on the screen.
 
@@ -16,7 +16,7 @@ The game is implemented using a combination of MIPS assembly language and the MI
 
 The snake and food objects are represented as arrays of coordinates on the grid, and the collision detection logic checks for collisions with the walls and the snake's own body.
 
-# Emulator Installation
+# MARS Installation
 Follow this link to download: http://courses.missouristate.edu/kenvollmar/mars/
 
 # Contributions
